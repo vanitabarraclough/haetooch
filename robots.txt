@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oocaingaeb.dwfsystems.com/sitemap.xml
